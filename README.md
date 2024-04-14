@@ -1,9 +1,7 @@
 # Basic-OTP
 
-Just a simple sample of browser extension, 
-OTP just a display the purpose of this was to demotrate how to create browser extensioni 
+This is a simple example of a browser extension. Its main function is to display OTPs and provide a template for creating similar extensions.
 
+I've saved it as a personal template for future use.
 
-i saved it for my own template
-
-![Scrrenshot](ss.png)
+![Screenshot](ss.png)
